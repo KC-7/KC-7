@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KC-7
+- 👀 I’m interested in computers, animals, nature, DIY, cooking and cars.
+- 🌱 I’m currently studying a Full Stack Developer Course with the Code Institute. 
+- 📫 Follow me to see more of my future projects!
