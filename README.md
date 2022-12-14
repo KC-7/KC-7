@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KC-7
+- 👋 Hi, I’m @KC-7. I am 28 and live in Ireland. 
 - 👀 I’m interested in computers, animals, nature, DIY, cooking and cars.
 - 🌱 I’m currently studying a Full Stack Developer Course with the Code Institute. 
-- 📫 Follow me to see more of my future projects!
+- 📫 Check out my pinned projects and follow me to see more of my future projects!
