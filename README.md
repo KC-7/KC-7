@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [my third milestone project (Python)](https://github.com/KC-7?tab=repositories)
 
-- 🌱 I’m currently learning **Full Stack Development in Code Institute**
+- 🌱 I’m currently learning **Full Stack Development in the Code Institute**
 
 - 👯 Ì just finished working on [Love Sandwiches (Python)](https://github.com/KC-7/love-sandwiches)
-
-- 🤝 The remainder of my projects are **located here**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KC-7?tab=repositories](https://github.com/KC-7?tab=repositories)
 
