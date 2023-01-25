@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-7&label=Profile%20views&color=0e75b6&style=flat" alt="kc-7" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development in the Code Institute**
-
 - 🔭 Check out my completed projects: 
   | Project X/5 | Project Name | Language(s) | Repo Link | Live Link |
   |---|---|---|---|---|
-  | 3 | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/kc7-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
+  | 3 | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
   | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Click Here](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
   | 1 | Life Hacks Website | HTML & CCS | [Click Here](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
