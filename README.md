@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kieran (KC-7)</h1>
-<h3 align="center">A passionate student learning Full Stack Development in Ireland</h3>
+<h3 align="center">I'm a passionate student learning Full Stack Development in Ireland through the Code Institute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-7&label=Profile%20views&color=0e75b6&style=flat" alt="kc-7" /> </p>
 
