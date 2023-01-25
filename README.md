@@ -7,8 +7,8 @@
   | Project X/5 | Project Name | Language(s) | Repo & README Link | Live Link |
   |---|---|---|---|---|
   | 3 | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
-  | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Click Here](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
-  | 1 | Life Hacks Website | HTML & CCS | [Click Here](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
+  | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
+  | 1 | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
 - 🔭 Check out my CI walk through projects: 
   - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend. 
