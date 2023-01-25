@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-7&label=Profile%20views&color=0e75b6&style=flat" alt="kc-7" /> </p>
 
-- 🔭 Check out my completed projects: 
-  | Project X/5 | Project Name | Language(s) | Repo Link | Live Link |
+- 🔭 Check out my completed projects & detailed readme documentation: 
+  | Project X/5 | Project Name | Language(s) | Repo & README Link | Live Link |
   |---|---|---|---|---|
   | 3 | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
   | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Click Here](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
   | 1 | Life Hacks Website | HTML & CCS | [Click Here](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
 - 🔭 Check out my CI walk through projects: 
-  - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) 
-  - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) 
-  - [Love Maths Repo (HTMAL, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) 
-  - [Love Running Repo (HTML & CSS)](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/) 
+  - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend. 
+  - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Note: Working Terminal App
+  - [Love Maths Repo (HTMAL, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Note: Working Site, No Backend
+  - [Love Running Repo (HTML & CSS)](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/)  | Note: Working Site, No Backend
 
 - 🔭 Check out my YT walk through projects & experimental projects: 
-  - [Rock Paper Scissors (JavaScript)](https://github.com/KC-7/rock-paper-scissors) - Web Dev Simplified
-  - [Car Game (Python using ChatGPT)](https://github.com/KC-7/car-game) - Incomplete 
-  - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) - Incomplete 
+  - [Rock Paper Scissors (JavaScript)](https://github.com/KC-7/rock-paper-scissors) - Web Dev Simplified YT Walkthrough
+  - [Car Game (Python using ChatGPT)](https://github.com/KC-7/car-game) - Experimenting with ChatGPT, Site Incomplete 
+  - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) - Experimenting with ChatGPT, Site Incomplete 
 
 - 👨‍💻 All of my projects are available at [https://github.com/KC-7?tab=repositories](https://github.com/KC-7?tab=repositories)
 
