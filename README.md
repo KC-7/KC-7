@@ -13,13 +13,13 @@
 - 🔭 Check out my CI walk through projects: 
   - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend for Sign Up. Contains Lorum Ipsum Placeholders.
   - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Note: Working Terminal App
-  - [Love Maths Repo (HTMAL, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Note: Working Site
+  - [Love Maths Repo (HTML, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Note: Working Site
   - [Love Running Repo (HTML & CSS)](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/)  | Note: Working Site, No Backend for Form
 
 - 🔭 Check out my YT walk through projects & experimental projects: 
-  - [Rock Paper Scissors (JavaScript)](https://github.com/KC-7/rock-paper-scissors) - Web Dev Simplified YT Walkthrough
-  - [Car Game (Python using ChatGPT)](https://github.com/KC-7/car-game) - Experimenting with ChatGPT, Site Incomplete 
-  - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) - Experimenting with ChatGPT, Site Incomplete 
+  - [Rock Paper Scissors (JavaScript)](https://github.com/KC-7/rock-paper-scissors) | [Live Link](https://kc-7.github.io/rock-paper-scissors/Web) | Modified Version of Dev Simplified's YT Walkthrough Project
+  - [Car Game (Python using ChatGPT)](https://github.com/KC-7/car-game) | Experimenting with ChatGPT, Site Incomplete 
+  - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) | Experimenting with ChatGPT, Site Incomplete 
 
 - 👨‍💻 All of my projects are available at [https://github.com/KC-7?tab=repositories](https://github.com/KC-7?tab=repositories)
 
