@@ -10,8 +10,9 @@
   | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
   | 1 | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
-- 🔭 Check out my CI walk through projects: 
-  - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend for Sign Up. Contains Lorum Ipsum Placeholders.
+- 🔭 Check out my CI walk through projects:
+  - [Bootstrap Resume Repo (Bootstrap)](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | Note: To be updated with relevant personal info, the email provided is valid.
+  - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend for Sign Up.
   - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Note: Working Terminal App
   - [Love Maths Repo (HTML, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Note: Working Site
   - [Love Running Repo (HTML & CSS)](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/)  | Note: Working Site, No Backend for Form
