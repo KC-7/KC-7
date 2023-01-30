@@ -11,7 +11,7 @@
   | 1 | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
 - 🔭 Check out the walk through projects I learned through Code Institue, I have made my own modifications:
-  - [Arrow Functions Mini Repo (Javascript)(https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions.
+  - [Arrow Functions Mini Repo (Javascript)](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions.
   - [Bootstrap Resume Repo (Bootstrap)](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | Note: To be updated with relevant personal info, the email provided is valid.
   - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend for Sign Up.
   - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Note: Working Terminal App
