@@ -11,17 +11,22 @@
   | 1 | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
 - 🔭 Check out the walk through projects I learned through Code Institue, I have made my own modifications:
+  - [Arrow Functions Mini Repo (Javascript)(https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions.
   - [Bootstrap Resume Repo (Bootstrap)](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | Note: To be updated with relevant personal info, the email provided is valid.
   - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend for Sign Up.
   - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Note: Working Terminal App
   - [Love Maths Repo (HTML, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Note: Working Site
   - [Love Running Repo (HTML & CSS)](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/)  | Note: Working Site, No Backend for Form
 
-- 🔭 Check out the projects I have been experimenting with in my own time: https://kc-7.github.io/kc-weather-app/
+- 🔭 Check out the projects I have been experimenting with in my own time:
   - [KC Weather App (JavaScript)](https://github.com/KC-7/kc-weather-app) | [Live Link](https://kc-7.github.io/kc-weather-app/) | Functioning Javascript weather app with basic styling and structure. 
   - [Rock Paper Scissors (JavaScript)](https://github.com/KC-7/rock-paper-scissors) | [Live Link](https://kc-7.github.io/rock-paper-scissors/) | Modified Version of Dev Simplified's YT Walkthrough Project
   - [Car Game (Python using ChatGPT)](https://github.com/KC-7/car-game) | Experimenting with ChatGPT, Site Incomplete 
   - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) | Experimenting with ChatGPT, Site Incomplete 
+
+- 🔭 Check out these repos designed to test and learn the basics: 
+  - [Arrow Functions Mini Repo (Javascript)](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme.
+  - [First Agile Mini Project](https://github.com/KC-7/first-agile-project) | Testing issues on GitHub.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KC-7?tab=repositories](https://github.com/KC-7?tab=repositories)
 
