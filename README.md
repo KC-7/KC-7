@@ -28,7 +28,7 @@
   - [Arrow Functions Mini Repo (Javascript)](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme.
   - [First Agile Mini Project](https://github.com/KC-7/first-agile-project) | Testing issues on GitHub.
 
-- 👨‍💻 All of my projects are available at [https://github.com/KC-7?tab=repositories](https://github.com/KC-7?tab=repositories)
+- 👨‍💻 All of my projects are available at [repos.kc-7.com](repos.kc-7.com)
 
 - 📫 Contact me at **kieran@kc-7.com**
 
