@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kieran (KC-7)</h1>
+<h1 align="center">Hi 👋, I'm Kieran (**KC-7<small>.com</small>**)</h1>
 <h3 align="center">I'm a passionate student learning Full Stack Development in Ireland through the Code Institute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-7&label=Profile%20views&color=0e75b6&style=flat" alt="kc-7" /> </p>
@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KC-7?tab=repositories](https://github.com/KC-7?tab=repositories)
 
-- 📫 How to reach me **000.kc.111@gmail.com**
+- 📫 Contact me at **k@kc-7.com**
 
 - ⚡ Personal Interests **I love problem solving, computers, cars, outdoors and music**
 
