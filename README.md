@@ -25,7 +25,7 @@
   - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) | Experimenting with ChatGPT, Site Incomplete 
 
 - 🔭 Check out these repos designed to test and learn the basics:
-  - [Jest Basics: Installing and Testing Jest (Javascript & Jest)](https://github.com/KC-7/jest-test) | Note: This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference. 
+  - [Jest Basics: Installing and Testing Jest (Javascript & Jest)](https://github.com/KC-7/jest-test) | Note: This repo was created to learn how to set up and carry out basic Jest testing.
   - [Advanced Javascript: Map, Filter & Reduce (Javascript)](https://github.com/KC-7/js-map-filter-reduce) | Note: This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference.
   - [Arrow Functions Mini Repo (Javascript)](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme.
   - [First Agile Mini Project](https://github.com/KC-7/first-agile-project) | Testing issues on GitHub.
