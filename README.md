@@ -10,8 +10,9 @@
   | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
   | 1 | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
 
-- 🔭 Check out the walk through projects I learned through Code Institue, I have made my own modifications:
+- 🔭 Check out the walk through projects I learned through the Code Institue, I have made my own modifications:
   - [Bootstrap Resume Repo (Bootstrap)](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | Note: To be updated with relevant personal info, the email provided is valid.
+  - [Jest Simon Game Repo (Bootstrap)](https://github.com/KC-7/jest-simon-game) | [Live Link](https://kc-7.github.io/jest-simon-game/) | Note: Working site with Jest Testing.
   - [Whiskey Drop Repo (Bootstrap)](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Note: Homepage complete but does not have additional site pages, no backend for Sign Up.
   - [Love Sandwiches Repo (Python)](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Note: Working Terminal App
   - [Love Maths Repo (HTML, CSS & Javascript)](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Note: Working Site
@@ -23,7 +24,8 @@
   - [Car Game (Python using ChatGPT)](https://github.com/KC-7/car-game) | Experimenting with ChatGPT, Site Incomplete 
   - [Demo Store (HTML, CSS, JS using ChatGPT)](https://github.com/KC-7/demo-site) | Experimenting with ChatGPT, Site Incomplete 
 
-- 🔭 Check out these repos designed to test and learn the basics: 
+- 🔭 Check out these repos designed to test and learn the basics:
+  - [Jest Basics: Installing and Testing Jest (Javascript & Jest)](https://github.com/KC-7/jest-test) | Note: This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference. 
   - [Advanced Javascript: Map, Filter & Reduce (Javascript)](https://github.com/KC-7/js-map-filter-reduce) | Note: This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference.
   - [Arrow Functions Mini Repo (Javascript)](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Note: This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme.
   - [First Agile Mini Project](https://github.com/KC-7/first-agile-project) | Testing issues on GitHub.
