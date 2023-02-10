@@ -29,10 +29,10 @@
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
 | Bootstrap Resume | Bootstrap | [Repo Link](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | To be updated with relevant personal info, the email provided is valid. |
-| Jest Simon Game | Bootstrap | [Repo Link](https://github.com/KC-7/jest-simon-game) | [Live Link](https://kc-7.github.io/jest-simon-game/) | Working site with Jest Testing. |
+| Jest Simon Game | Jest & JavaScript | [Repo Link](https://github.com/KC-7/jest-simon-game) | [Live Link](https://kc-7.github.io/jest-simon-game/) | Working site with Jest Testing. |
 | Whiskey Drop | Bootstrap | [Repo Link](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Homepage complete but does not have additional site pages, no backend for Sign Up. |
 | Love Sandwiches | Python | [Repo Link](https://github.com/KC-7/love-sandwiches) | [Live Link](https://love-sandwiches-kc.herokuapp.com/) | Working Terminal App |
-| Love Maths | HTML, CSS & Javascript | [Repo Link](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Working Site |
+| Love Maths | HTML, CSS & JavaScript | [Repo Link](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | Working Site |
 | Love Running | HTML & CSS | [Repo Link](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/) | Working Site, no Backend for Form |
 
 ---
