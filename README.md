@@ -1,12 +1,12 @@
 # Hi 👋, I'm Kieran @ [KC-7.com](https://kc-7.com) 
 
-### Passionate student on the way to becoming a Full Stack Developer
+### Passionate student on the way to becoming a Full Stack Developer through the Code Institute 🖥️💻
 
 ---
 
-## Portfolio Projects
+## Portfolio Projects 🔥💥💢💥🔥
 
-| Project X/5 | Project | Language(s) | Repo & README Link | Live Link |
+| Project  x of 5 | Project Name | Language(s) | Repo & README Link | Live Link |
 |---|---|---|---|---|
 | 3 | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
 | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
@@ -14,7 +14,7 @@
 
 ---
 
-## Walk Through Projects
+## Walk Through Projects 🕹️💻💾
 
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Experimenting & Learning
+## Experimenting & Learning 💡🛸🪐🚀💡
 
 | Project | Language(s) | Links | Description |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@
 
 ---
 
-## Learning the Basics
+## Learning the Basics 🔧🔨🔩
 
 | Project | Language(s) | Description |
 | --- | --- | --- |
@@ -47,7 +47,7 @@
 
 ---
 
-## How To Reach Me
+## How To Reach Me 🎶🎵🎲🎮🛠️🚗
 
 - 👨‍💻 All of my projects are available at [repos.kc-7.com](https://github.com/KC-7?tab=repositories)
 
@@ -57,7 +57,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools: ⚙️🛠️🔩🔧🔨
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
