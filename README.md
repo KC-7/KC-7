@@ -14,6 +14,16 @@
 
 ---
 
+## How To Reach Me 🎶🎵🎲🎮🛠️🚗
+
+- 👨‍💻 All of my projects are available at [repos.kc-7.com](https://github.com/KC-7?tab=repositories)
+
+- 📫 Contact me at **kieran@kc-7.com**
+
+- ⚡ Personal Interests **I love problem solving, computers, cars, outdoors and music**
+
+---
+
 ## Walk Through Projects 🕹️💻💾
 
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
@@ -44,16 +54,6 @@
 | [Advanced Javascript: Map, Filter & Reduce](https://github.com/KC-7/js-map-filter-reduce) | Javascript | This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference. |
 | [Arrow Functions Mini Repo](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Javascript | This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme. |
 | [First Agile Mini Project](https://github.com/KC-7/first-agile-project) | N/A | Testing issues on GitHub. |
-
----
-
-## How To Reach Me 🎶🎵🎲🎮🛠️🚗
-
-- 👨‍💻 All of my projects are available at [repos.kc-7.com](https://github.com/KC-7?tab=repositories)
-
-- 📫 Contact me at **kieran@kc-7.com**
-
-- ⚡ Personal Interests **I love problem solving, computers, cars, outdoors and music**
 
 ---
 
