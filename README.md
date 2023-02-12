@@ -28,6 +28,7 @@
 
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
+| First Flask App | Python, Flask, Bootstrap | [Repo Link](https://github.com/KC-7/first-flask-app) | [Live Link](https://kc-flask-app.herokuapp.com/) | This site uses boilerplate data but implements Flask Framework, jinja2 templating, Flask and Data & Routing |
 | Bootstrap Resume | Bootstrap | [Repo Link](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | To be updated with relevant personal info, the email provided is valid. |
 | Jest Simon Game | Jest & JavaScript | [Repo Link](https://github.com/KC-7/jest-simon-game) | [Live Link](https://kc-7.github.io/jest-simon-game/) | Working site with Jest Testing. |
 | Whiskey Drop | Bootstrap | [Repo Link](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Homepage complete but does not have additional site pages, no backend for Sign Up. |
