@@ -24,7 +24,7 @@
 
 ---
 
-## Walk Through Projects 🕹️💻💾
+## Walk Through Projects (CI) 🕹️💻💾
 
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
@@ -42,12 +42,13 @@
 
 | Project | Language(s) | Links | Description |
 | --- | --- | --- | --- |
+| Interactive Object | ThreeJS | [Repo Link](https://github.com/KC-7/threejs-test) - [Live Link](https://kc-7.github.io/threejs-test/) | This mini project was designed to test the basic features of the ThreeJS library. The colour of the animated pyramid is randomly changed on click. |
 | KC Weather App | JavaScript | [Repo Link](https://github.com/KC-7/kc-weather-app) - [Live Link](https://kc-7.github.io/kc-weather-app/) | Functioning Javascript weather app with basic styling and structure. |
-| Rock Paper Scissors | JavaScript | [Repo Link](https://github.com/KC-7/rock-paper-scissors) - [Live Link](https://kc-7.github.io/rock-paper-scissors/) | Modified Version of Dev Simplified's YT Walkthrough Project |
+| Rock Paper Scissors | JavaScript | [Repo Link](https://github.com/KC-7/rock-paper-scissors) - [Live Link](https://kc-7.github.io/rock-paper-scissors/) | Modified Version of Dev Simplified's YT Walkthrough Project. Note, not responsive to smaller screens. |
 
 ---
 
-## Learning the Basics 🔧🔨🔩
+## Learning the Basics (CI) 🔧🔨🔩
 
 | Project | Language(s) | Description |
 | --- | --- | --- |
