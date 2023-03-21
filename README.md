@@ -28,7 +28,8 @@
 
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
-| First Flask App | Python, Flask, Bootstrap | [Repo Link](https://github.com/KC-7/first-flask-app) | [Live Link](https://kc-flask-app.herokuapp.com/) | This site uses boilerplate data but implements Flask Framework, jinja2 templating, Flask and Data & Routing |
+| Flask SQLAlchemy Task Manager | Flask, SQLAlchemy | [Repo Link](https://github.com/KC-7/flask-sqlachemy-task-manager) | [Live Link](https://kc-task-manager.herokuapp.com/) | The Task Manager App allows for user authentication and authorization, CRUD (Create, Read, Update, Delete) operations for tasks and categories, task filtering, and uses Materialize CSS for a clean & responsive UI |
+| First Flask App | Flask, Bootstrap | [Repo Link](https://github.com/KC-7/first-flask-app) | [Live Link](https://kc-flask-app.herokuapp.com/) | This site uses boilerplate data but implements Flask Framework, jinja2 templating, Flask and Data & Routing |
 | Bootstrap Resume | Bootstrap | [Repo Link](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | To be updated with relevant personal info, the email provided is valid. |
 | Jest Simon Game | Jest & JavaScript | [Repo Link](https://github.com/KC-7/jest-simon-game) | [Live Link](https://kc-7.github.io/jest-simon-game/) | Working site with Jest Testing. |
 | Whiskey Drop | Bootstrap | [Repo Link](https://github.com/KC-7/whiskey-drop) | [Live Link](https://kc-7.github.io/whiskey-drop/) | Homepage complete but does not have additional site pages, no backend for Sign Up. |
@@ -42,6 +43,7 @@
 
 | Project | Language(s) | Links | Description |
 | --- | --- | --- | --- |
+| fourstar.pizza Connect 4 Game | Javascript, CSS | [Repo Link](https://github.com/KC-7/four-in-a-row) - [Live Link](https://fourstar.pizza/) | Interactive game of connect 4. Based of a basic youtube tutorial then expanded on for additional functionality and to improve UI and UX. This app is hosted on a custom domain and incorporates SSL certificate. |
 | Interactive Object | ThreeJS | [Repo Link](https://github.com/KC-7/threejs-test) - [Live Link](https://kc-7.github.io/threejs-test/) | This mini project was designed to test the basic features of the ThreeJS library. The colour of the animated pyramid is randomly changed on click. |
 | KC Weather App | JavaScript | [Repo Link](https://github.com/KC-7/kc-weather-app) - [Live Link](https://kc-7.github.io/kc-weather-app/) | Functioning Javascript weather app with basic styling and structure. |
 | Rock Paper Scissors | JavaScript | [Repo Link](https://github.com/KC-7/rock-paper-scissors) - [Live Link](https://kc-7.github.io/rock-paper-scissors/) | Modified Version of Dev Simplified's YT Walkthrough Project. Note, not responsive to smaller screens. |
