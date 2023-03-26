@@ -54,6 +54,7 @@
 
 | Project | Language(s) | Description |
 | --- | --- | --- |
+| [Python Testing: Unittest - Student Class Testing](https://github.com/KC-7/unittest-student-class) | Unittest & Python | This repo was created to learn and Demonstrate Python Testing using Unittest and techniques such as Test Driven Development, Mocking and Red-Green-Refactor. |
 | [Jest Basics: Installing and Testing Jest](https://github.com/KC-7/jest-test) | Javascript & Jest | This repo was created to learn how to set up and carry out basic Jest testing. |
 | [Advanced Javascript: Map, Filter & Reduce](https://github.com/KC-7/js-map-filter-reduce) | Javascript | This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference. |
 | [Arrow Functions Mini Repo](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Javascript | This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme. |
