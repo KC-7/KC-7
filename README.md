@@ -28,6 +28,7 @@
 
 | Project | Language(s) | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
+| Django To Do App | Django | [Repo Link](https://github.com/KC-7/hello-django) | [Live Link](https://kc-django-todo-app.herokuapp.com/) | This is a Django-based todo app that allows users to add, edit, delete, and toggle items on their to-do list (CRUD). It has been built using Django version 3.2.3. |
 | Flask SQLAlchemy Task Manager | Flask, SQLAlchemy | [Repo Link](https://github.com/KC-7/flask-sqlachemy-task-manager) | [Live Link](https://kc-task-manager.herokuapp.com/) | The Task Manager App allows for user authentication and authorization, CRUD (Create, Read, Update, Delete) operations for tasks and categories, task filtering, and uses Materialize CSS for a clean & responsive UI |
 | First Flask App | Flask, Bootstrap | [Repo Link](https://github.com/KC-7/first-flask-app) | [Live Link](https://kc-flask-app.herokuapp.com/) | This site uses boilerplate data but implements Flask Framework, jinja2 templating, Flask and Data & Routing |
 | Bootstrap Resume | Bootstrap | [Repo Link](https://github.com/KC-7/bootstrap-resume) | [Live Link](https://kc-7.github.io/bootstrap-resume/) | To be updated with relevant personal info, the email provided is valid. |
