@@ -6,7 +6,7 @@
 
 ## Portfolio Projects 🔥💥💢💥🔥
 
-| Project  x of 5 | Project Name | Language(s) | Repo & README Link | Live Link |
+| Project  x of 5 | Project Name | Languages, Frameworks, etc. | Repo & README Link | Live Link |
 |---|---|---|---|---|
 | 3 | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
 | 2 | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
@@ -26,8 +26,9 @@
 
 ## Walk Through Projects (CI) 🕹️💻💾
 
-| Project | Language(s) | Repo & README Link | Live Link | Notes |
+| Project | Languages, Frameworks, etc. | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
+| Django Blog Site | Django, Bootstrap, Agile | [Repo Link](https://github.com/KC-7/django-blog) | [Live Link](https://kc-django-blog.herokuapp.com/) | This is a Django-based Blog Site that allows users to add, edit, delete, and like posts on the blog (CRUD). It was built using Django, Bootstrap and used Agile Development as showen in the User Stories. |
 | Django To Do App | Django | [Repo Link](https://github.com/KC-7/hello-django) | [Live Link](https://kc-django-todo-app.herokuapp.com/) | This is a Django-based todo app that allows users to add, edit, delete, and toggle items on their to-do list (CRUD). It has been built using Django version 3.2.3. |
 | Flask SQLAlchemy Task Manager | Flask, SQLAlchemy | [Repo Link](https://github.com/KC-7/flask-sqlachemy-task-manager) | [Live Link](https://kc-task-manager.herokuapp.com/) | The Task Manager App allows for user authentication and authorization, CRUD (Create, Read, Update, Delete) operations for tasks and categories, task filtering, and uses Materialize CSS for a clean & responsive UI |
 | First Flask App | Flask, Bootstrap | [Repo Link](https://github.com/KC-7/first-flask-app) | [Live Link](https://kc-flask-app.herokuapp.com/) | This site uses boilerplate data but implements Flask Framework, jinja2 templating, Flask and Data & Routing |
@@ -42,7 +43,7 @@
 
 ## Experimenting & Learning 💡🛸🪐🚀💡
 
-| Project | Language(s) | Links | Description |
+| Project | Languages, Frameworks, etc. | Links | Description |
 | --- | --- | --- | --- |
 | fourstar.pizza Connect 4 Game | Javascript, CSS | [Repo Link](https://github.com/KC-7/four-in-a-row) - [Live Link](https://fourstar.pizza/) | Interactive game of connect 4. Based of a basic youtube tutorial then expanded on for additional functionality and to improve UI and UX. This app is hosted on a custom domain and incorporates SSL certificate. |
 | Interactive Object | ThreeJS | [Repo Link](https://github.com/KC-7/threejs-test) - [Live Link](https://kc-7.github.io/threejs-test/) | This mini project was designed to test the basic features of the ThreeJS library. The colour of the animated pyramid is randomly changed on click. |
@@ -53,7 +54,7 @@
 
 ## Learning the Basics (CI) 🔧🔨🔩
 
-| Project | Language(s) | Description |
+| Project | Languages, Frameworks, etc. | Description |
 | --- | --- | --- |
 | [Python Testing: Unittest - Student Class Testing](https://github.com/KC-7/unittest-student-class) | Unittest & Python | This repo was created to learn and Demonstrate Python Testing using Unittest and techniques such as Test Driven Development, Mocking and Red-Green-Refactor. |
 | [Jest Basics: Installing and Testing Jest](https://github.com/KC-7/jest-test) | Javascript & Jest | This repo was created to learn how to set up and carry out basic Jest testing. |
