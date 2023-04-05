@@ -45,6 +45,7 @@
 
 | Project | Languages, Frameworks, etc. | Links | Description |
 | --- | --- | --- | --- |
+| Ai Travel Planner | Flask, JS, CSS, HTML | [Repo Link](https://github.com/KC-7/ai-testing) - [Live Link](https://ai-testing.herokuapp.com/) | Interactive travel planning app. Using OpenAI davinci-003. It site asks the user questions using a form and then uses the inputs to generate a custom itinerary. |
 | fourstar.pizza Connect 4 Game | Javascript, CSS | [Repo Link](https://github.com/KC-7/four-in-a-row) - [Live Link](https://fourstar.pizza/) | Interactive game of connect 4. Based of a basic youtube tutorial then expanded on for additional functionality and to improve UI and UX. This app is hosted on a custom domain and incorporates SSL certificate. |
 | Interactive Object | ThreeJS | [Repo Link](https://github.com/KC-7/threejs-test) - [Live Link](https://kc-7.github.io/threejs-test/) | This mini project was designed to test the basic features of the ThreeJS library. The colour of the animated pyramid is randomly changed on click. |
 | KC Weather App | JavaScript | [Repo Link](https://github.com/KC-7/kc-weather-app) - [Live Link](https://kc-7.github.io/kc-weather-app/) | Functioning Javascript weather app with basic styling and structure. |
