@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kieran @ [KC-7.com](https://kc-7.com) 
+# 👋 Hi , I'm Kieran @ [KC-7.com](https://kc-7.com) 
 
 ### Passionate student on the way to becoming a Full Stack Developer through the Code Institute 🖥️💻
 
@@ -6,9 +6,9 @@
 
 ## Portfolio Projects 🔥💥💢💥🔥
 
-| Project  x of 5 | Project Name | Languages, Frameworks, etc. | Repo & README Link | Live Link |
+| Project  x of 5 | Project Name | Languages, Frameworks, etc. | Code & README Link | Live Link |
 |---|---|---|---|---|
-| 4 ⭐ | AI Art Website | Django | [Repo Link](https://github.com/KC-7/ai-art-site) | [Live Link](https://www.cre8ai.art/) |
+| 4 ⭐ | AI Art Website - Cre8AI.art | Django | [Repo Link](https://github.com/KC-7/ai-art-site) | [Live Link](https://www.cre8ai.art/) |
 | 3 ⭐ | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
 | 2 ⭐ | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
 | 1 ⭐ | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
