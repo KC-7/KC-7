@@ -1,28 +1,56 @@
 # 👋 Hi , I'm Kieran @ [KC-7.com](https://kc-7.com) 
 
-### Passionate student on the way to becoming a Full Stack Developer through the Code Institute 🖥️💻
+### I'm a Certified Full Stack Developer specializing in E-Commerce platforms, with proven experience in creating functional, user-friendly & secure websites. Check out my portfolio to see the blend of technical skills and creative vision I bring to my work. I am currently working on some personal projects and am interested in collaborating with other developers. I am also availble to work remotely for the right company. 🖥️💻
+
+### Note: Recently, I have been working on a lot of projects locally but I intend to add these to GitHub Repos soon.
 
 ---
 
 ## Portfolio Projects 🔥💥💢💥🔥
 
-| Project  x of 5 | Project Name | Languages, Frameworks, etc. | Code & README Link | Live Link |
-|---|---|---|---|---|
-| 5 ⭐ | E-Commmerce Website - onlineAI.art | Django & Bootstrap | [Repo Link](https://github.com/KC-7/ecommerce) | [Live Link](https://onlineai.art/) |
-| 4 ⭐ | AI Art Website - Cre8AI.art | Django & Bootstrap | [Repo Link](https://github.com/KC-7/ai-art-site) | [Live Link](https://www.cre8ai.art/) |
-| 3 ⭐ | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) |
-| 2 ⭐ | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) |
-| 1 ⭐ | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) |
+| Project | Project Name | Languages, Frameworks, etc. | Code & README Link | Live Link | Notes |
+|---|---|---|---|---|---|
+| 5 ⭐ | E-Commmerce Website - onlineAI.art | Django & Bootstrap | [Repo Link](https://github.com/KC-7/ecommerce) | [Live Link](https://onlineai.art/) | Fully functional Django Ecommerce Store with Stripe Payements Integration and custom Crypto Punk Style Avatars Algorithmically Generated using Python. Includes detailed README, multiple unique apps, custom admin dashboard, newsletter registration, automated emails etc. It is set up on a cutsom domain, SSL cert, and uses cloudflare for additional security. |
+| 4 ⭐ | AI Art Website - Cre8AI.art | Django & Bootstrap | [Repo Link](https://github.com/KC-7/ai-art-site) | [Live Link](https://www.cre8ai.art/) | Fully functional Django website that allows signed in users to create new AI generated images which are shared as posts. Posts can be made private, edited or deleted. A detailed README has been included. |
+| 3 ⭐ | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) | This Terminal based Quiz App was built using Python and includes a detailed README. |
+| 2 ⭐ | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) | This interactive quiz website was built using HTML and CSS with the addition of JS. This project includes a detailed README. |
+| 1 ⭐ | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) | This was my first coding project (in over 15 years). This static website is built using HTML and CSS and includes a detailed README. |
 
 ---
 
-## How To Reach Me 🎶🎵🎲🎮🛠️🚗
+## How To Reach Me 💻 📫
 
 - 👨‍💻 All of my projects are available at [repos.kc-7.com](https://github.com/KC-7?tab=repositories)
 
 - 📫 Contact me at **kieran@kc-7.com**
+  
+---
 
-- ⚡ Personal Interests **I love problem solving, computers, cars, outdoors and music**
+## About Me 🎶🎵🎲🎮🛠️🚗
+
+**⚡ Personal Interests** 
+
+I love problem solving, ML & AI, cybersecurity, open source & privacy focused applications and general modifications. I am also passionate about cars, outdoors, travelling, music and animals.
+
+**Machine Learning & Artificial Intelligence:** 
+- I run the following locally on my PC for Text Generation: TextGenUI with custom LLMs from HuggingFace. AutoGen connected to Local LLM or ChatGPT to create teams of Agents. MemGPT connected to AutoGen & Local LLM or ChatGPT to increase context length for the teams of agents.
+- I run the following locally for Image Generation: Automatic1111 (A1111) & ComfyUI user interfaces. I use A1111 for most models to generate images, I have also integrated Stable Diffusion for AI Video Generation, I have also experimented with 3d modelling, image to text etc. I use ComfyUI for Stable Diffusion XL Model with Refiner, this is the best local model I've used for image generation but cant be used with A1111, I have detailed the set up for this in [this repo](https://github.com/KC-7/ecommerce).
+- I use So-Vits-SVC to change voices using trained models.
+- I have also developed applications that incorpate openai's api for text and image generation, example: [AI Art Generation](https://www.cre8ai.art/) & [AI Travel Planner](https://ai-testing.herokuapp.com/).
+
+**CyberSecurity:** 
+- Please see my 4th and 5th portfolio projects to see securily built Django websites.
+- I have basic experience with Kali Linux and its included applictions.
+- I have basic experience with tools such as Flipper Zero and custom installations on same.
+
+**Opensource & Privacy Focused Applications:**
+- I am a strong supporter of Opensource Projects and Privacy Focused Applications.
+- I have experience with Raspberry Pis, 3d Printing & Modelling, VPNS, TOR, Tails, etc.
+- I have a strong dislike for spyware, trackers, unessacry cookies, selling and collection of personal data, online censorship, etc.
+
+**General Modifications:**
+- I love to test things and push the bounderies. I believe modifying is an exciting way to learn more about the technology you own. I have carried out firmware modifications to a few electric scooters, 3d printers, flipper zero, gaming consoles such as PS4 and PSP, etc.
+- I have also built my own PC and set up raspeberry pis for different purposes.
 
 ---
 
