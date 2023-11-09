@@ -11,13 +11,35 @@ I'm Kieran, a certified Full Stack Web Developer specialized in creating robust 
 
 ## Portfolio Projects 🔥💥💢💥🔥
 
-| Project | Project Name | Languages, Frameworks, etc. | Code & README Link | Live Link | Notes |
-|---|---|---|---|---|---|
-| 5 ⭐ | E-Commmerce Website - onlineAI.art | Django & Bootstrap | [Repo Link](https://github.com/KC-7/ecommerce) | [Live Link](https://onlineai.art/) | The E-Commerce Store project leverages Django and Bootstrap for an agile and scalable online shopping platform, offering AI-generated custom printed products. It features a user-friendly interface for seamless navigation and secure transactions, integrating Stripe for payments and AWS S3 for hosting. A unique pixel art avatar is created for each user, enhancing personalization. The site's admin section provides robust content management, and the codebase is maintained with diligent git practices for streamlined development and future updates.|
-| 4 ⭐ | AI Art Website - Cre8AI.art | Django & Bootstrap | [Repo Link](https://github.com/KC-7/ai-art-site) | [Live Link](https://www.cre8ai.art/) | This web application allows users to create custom AI generated artwork using the impressive DALLE-2 API by OpenAI. The generated image is automatically shared as a public post. The user can view it, change it to private, edit the description, download the image or delete the post. User accounts are limited to 5 generations per day. Users can also use the upload form to share a generation from a different site (example, stable diffusion). The site also has an About section which is managed from the sites admin panel, this allows admins to alter and create additional pages as required. |
-| 3 ⭐ | Computer Terminal Quiz | Python | [Repo Link](https://github.com/KC-7/python-quiz) | [Live Link](https://kc-quiz.herokuapp.com/) | This command-line application quiz app was built using Python to learn a wide range of different functions. The quiz takes the user's name, provides a series of questions and options and provides a final result at the end of the quiz. Each user input is validated to ensure the data is entered in the correct format. A google spreadsheet is linked to the app to keep track of the usernames and scores, the info is sent on completion of the quiz. The user will be given an option to print the high scores leaderboard to the terminal at the end of the game. The high scores are extracted from the google spreadsheet. |
-| 2 ⭐ | Car Web Quiz | HTML, CSS & JavaScipt | [Repo Link](https://github.com/KC-7/car-quiz) | [Live Link](https://kc-7.github.io/car-quiz/) | This is a fun, responsive car quiz that is designed to both engage and interact with the user. The site was designed to demonstrate a variety of different JavaScript functions. The user is asked a series of questions and their score is calculated in the top right hand corner. The website interacts with the user and changes the colours of the body and the options to show if the answer was correct or not. A randomized message is displayed to the user after each answer alongside their result. The user is shown their total score at the end of the game and given the option to try again. |
-| 1 ⭐ | Life Hacks Website | HTML & CCS | [Repo Link](https://github.com/KC-7/life-hacks-v2) | [Live Link](https://kc-7.github.io/life-hacks-v2/index.html) | The Life Hax website showcases responsive design, employing HTML and CSS for structure and style and is optimized across device sizes using media queries. Google Fonts and Font Awesome icons enhance aesthetics and user experience. Development followed best practices, with W3C validation and Lighthouse testing ensuring performance and accessibility. |
+- **5 ⭐ Project**: E-Commerce Website - onlineAI.art
+  - **Languages, Frameworks, etc.**: Django & Bootstrap
+  - **Code & README Link**: [Repo Link](https://github.com/KC-7/ecommerce)
+  - **Live Link**: [Live Link](https://onlineai.art/)
+  - **Description**: The E-Commerce Store project leverages Django and Bootstrap for an agile and scalable online shopping platform, offering AI-generated custom printed products. It features a user-friendly interface for seamless navigation and secure transactions, integrating Stripe for payments and AWS S3 for hosting. A unique pixel art avatar is created for each user, enhancing personalization. The site's admin section provides robust content management, and the codebase is maintained with diligent git practices for streamlined development and future updates.
+
+- **4 ⭐ Project**: AI Art Website - Cre8AI.art
+  - **Languages, Frameworks, etc.**: Django & Bootstrap
+  - **Code & README Link**: [Repo Link](https://github.com/KC-7/ai-art-site)
+  - **Live Link**: [Live Link](https://www.cre8ai.art/)
+  - **Description**: This web application allows users to create custom AI generated artwork using the impressive DALLE-2 API by OpenAI. The generated image is automatically shared as a public post. The user can view it, change it to private, edit the description, download the image or delete the post. User accounts are limited to 5 generations per day. Users can also use the upload form to share a generation from a different site (example, stable diffusion). The site also has an About section which is managed from the site's admin panel, this allows admins to alter and create additional pages as required.
+
+- **3 ⭐ Project**: Computer Terminal Quiz
+  - **Languages, Frameworks, etc.**: Python
+  - **Code & README Link**: [Repo Link](https://github.com/KC-7/python-quiz)
+  - **Live Link**: [Live Link](https://kc-quiz.herokuapp.com/)
+  - **Description**: This command-line application quiz app was built using Python to learn a wide range of different functions. The quiz takes the user's name, provides a series of questions and options and provides a final result at the end of the quiz. Each user input is validated to ensure the data is entered in the correct format. A google spreadsheet is linked to the app to keep track of the usernames and scores, the info is sent on completion of the quiz. The user will be given an option to print the high scores leaderboard to the terminal at the end of the game. The high scores are extracted from the google spreadsheet.
+
+- **2 ⭐ Project**: Car Web Quiz
+  - **Languages, Frameworks, etc.**: HTML, CSS & JavaScipt
+  - **Code & README Link**: [Repo Link](https://github.com/KC-7/car-quiz)
+  - **Live Link**: [Live Link](https://kc-7.github.io/car-quiz/)
+  - **Description**: This is a fun, responsive car quiz that is designed to both engage and interact with the user. The site was designed to demonstrate a variety of different JavaScript functions. The user is asked a series of questions and their score is calculated in the top right-hand corner. The website interacts with the user and changes the colors of the body and the options to show if the answer was correct or not. A randomized message is displayed to the user after each answer alongside their result. The user is shown their total score at the end of the game and given the option to try again.
+
+- **1 ⭐ Project**: Life Hacks Website
+  - **Languages, Frameworks, etc.**: HTML & CCS
+  - **Code & README Link**: [Repo Link](https://github.com/KC-7/life-hacks-v2)
+  - **Live Link**: [Live Link](https://kc-7.github.io/life-hacks-v2/index.html)
+  - **Description**: The Life Hax website showcases responsive design, employing HTML and CSS for structure and style and is optimized across device sizes using media queries. Google Fonts and Font Awesome icons enhance aesthetics and user experience. Development followed best practices, with W3C validation and Lighthouse testing ensuring performance and accessibility.
 
 ---
 
