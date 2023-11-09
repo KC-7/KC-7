@@ -1,8 +1,11 @@
-# 👋 Hi , I'm Kieran @ [KC-7.com](https://kc-7.com) 
+# 👋 Welcome to KC-7's GitHub
 
-### I'm a Certified Full Stack Developer specializing in E-Commerce platforms, with proven experience in creating functional, user-friendly & secure websites. Check out my portfolio projects to see how I have been progressing with my techincal skills. I am currently working on some personal projects and am interested in collaborating with other developers. I am also availble to work remotely for the right company. 🖥️💻
+I'm Kieran, a certified Full Stack Web Developer specialized in creating robust E-Commerce applications. Here you'll find details on my projects, the technologies I use, and my personal interests. You can also check out my portfolio site at [KC-7.com](https://kc-7.com). Please feel free to check out my Portfolio Projects which I have linked below.
 
-### Note: Recently, I have been working on a lot of projects locally but I intend to add these to GitHub Repos soon.
+### What I'm Currently Up To
+
+- 🌐 Focusing on personal project enhancement and development locally but I intend to share these with the wider GitHub Community soon.
+- 🤝 Seeking collaboration with innovative developers and forward-thinking companies.
 
 ---
 
@@ -56,6 +59,10 @@ I love problem solving, ML & AI, cybersecurity, open source & privacy focused ap
 
 ## Walk Through Projects (CI) 🕹️💻💾
 
+<details>
+  
+<summary>I have detailed some of the projects I have completed as part of my Full Stack Developer Course with the Code Institute below: ⬇️</summary>
+
 | Project | Languages, Frameworks, etc. | Repo & README Link | Live Link | Notes |
 |---|---|---|---|---|
 | Boutique Ado Django e-Commerce Site ⭐ | Django, Bootstrap, etc. | [Repo Link](https://github.com/KC-7/boutique_ado) | [Live Link](https://kc-boutique-ado-fb080e3c3917.herokuapp.com/) | This is a Django-based E-Commerce Site that allows users sign up up, login, view, filter and search items. They can add products to basket and can make test purchases using the STRIPE test card details, eg: card no 4242 4242 4242 4242 exp 02/24 cvc 242. Admin users can add, edit, delete products (CRUD) and have access to the Django admin portal for the site. |
@@ -70,21 +77,33 @@ I love problem solving, ML & AI, cybersecurity, open source & privacy focused ap
 | Love Maths | HTML, CSS & JavaScript | [Repo Link](https://github.com/KC-7/love-maths) | [Live Link](https://kc-7.github.io/love-maths/) | This is a simple Math game web app where users can practice basic Math skills such as addition, subtraction, multiplication and division. |
 | Love Running ⭐ | HTML & CSS | [Repo Link](https://github.com/KC-7/love-running) | [Live Link](https://kc-7.github.io/love-running/) | This is a front end website designed for a faux running club based in Dublin, Ireland. The website is designed to provide information on the running club, its activities, upcoming events and how to join. The website is simple and easy to navigate. |
 
+</details>
+
 ---
 
 ## Experimenting & Learning 💡🛸🪐🚀💡
 
+<details>
+  
+<summary>Here are some small projects I have developed to test new skills: ⬇️</summary>
+
 | Project | Languages, Frameworks, etc. | Links | Description |
 | --- | --- | --- | --- |
-| Ai Travel Planner ⭐ | Flask, JS, CSS, HTML | [Repo Link](https://github.com/KC-7/ai-testing) - [Live Link](https://ai-testing.herokuapp.com/) | Interactive travel planning app. Using OpenAI davinci-003. It site asks the user questions using a form and then uses the inputs to generate a custom itinerary. |
+| AI Travel Planner ⭐ | Flask, JS, CSS, HTML | [Repo Link](https://github.com/KC-7/ai-testing) - [Live Link](https://ai-testing.herokuapp.com/) | Interactive travel planning app. Using OpenAI davinci-003. It site asks the user questions using a form and then uses the inputs to generate a custom itinerary. |
 | fourstar.pizza Connect 4 Game ⭐ | Javascript, CSS | [Repo Link](https://github.com/KC-7/four-in-a-row) - [Live Link](https://fourstar.pizza/) | Interactive game of connect 4. Based of a basic youtube tutorial then expanded on for additional functionality and to improve UI and UX. This app is hosted on a custom domain and incorporates SSL certificate. |
 | Interactive Object | ThreeJS | [Repo Link](https://github.com/KC-7/threejs-test) - [Live Link](https://kc-7.github.io/threejs-test/) | This mini project was designed to test the basic features of the ThreeJS library. The colour of the animated pyramid is randomly changed on click. |
 | KC Weather App ⭐ | JavaScript | [Repo Link](https://github.com/KC-7/kc-weather-app) - [Live Link](https://kc-7.github.io/kc-weather-app/) | Functioning Javascript weather app with basic styling and structure. |
 | Rock Paper Scissors | JavaScript | [Repo Link](https://github.com/KC-7/rock-paper-scissors) - [Live Link](https://kc-7.github.io/rock-paper-scissors/) | Modified Version of Dev Simplified's YT Walkthrough Project. Note, not responsive to smaller screens. |
 
+</details>
+
 ---
 
 ## Learning the Basics (CI) 🔧🔨🔩
+
+<details>
+  
+<summary>I have documented some of the basics I learned while completing the Full Stack Course in the Code Institute below: ⬇️</summary>
 
 | Project | Languages, Frameworks, etc. | Description |
 | --- | --- | --- |
@@ -93,6 +112,8 @@ I love problem solving, ML & AI, cybersecurity, open source & privacy focused ap
 | [Advanced Javascript: Map, Filter & Reduce](https://github.com/KC-7/js-map-filter-reduce) | Javascript | This repo was created to learn and test advanced JavaScript methods. It has detailed readme and comments for future reference. |
 | [Arrow Functions Mini Repo](https://github.com/KC-7/arrow-functions/blob/main/README.md) | Javascript | This repo only includes 5 functions however they are good test examples for learning arrow functions. I have created basic readme. |
 | [First Agile Mini Project](https://github.com/KC-7/first-agile-project) | N/A | Testing issues on GitHub. |
+
+</details>
 
 ---
 
