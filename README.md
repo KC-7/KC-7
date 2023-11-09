@@ -31,6 +31,10 @@ I'm Kieran, a certified Full Stack Web Developer specialized in creating robust 
 
 ## About Me 🎶🎵🎲🎮🛠️🚗
 
+<details>
+  
+<summary>Find Out More About Me & My Personal Interests Below: ⬇️</summary>
+
 **⚡ Personal Interests** 
 
 I love problem solving, ML & AI, cybersecurity, open source & privacy focused applications and general modifications. I am also passionate about cars, outdoors, travelling, music and animals.
@@ -54,6 +58,8 @@ I love problem solving, ML & AI, cybersecurity, open source & privacy focused ap
 **General Modifications:**
 - I love to test things and push the bounderies. I believe modifying is an exciting way to learn more about the technology you own. I have carried out firmware modifications to a few electric scooters, 3d printers, flipper zero, gaming consoles such as PS4 and PSP, etc.
 - I have also built my own PC and set up raspeberry pis for different purposes.
+
+</details>
 
 ---
 
