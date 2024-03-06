@@ -9,6 +9,22 @@ I'm Kieran, a certified Full Stack Web Developer specialized in creating robust 
 
 ---
 
+## Local AI / Machine Learning
+
+I utilize various tools and setups locally on my PC for both text and image generation tasks. For text generation, I employ TextGenUI alongside custom LLMs sourced from HuggingFace. Additionally, I leverage AutoGen, which interfaces with either Local LLM or ChatGPT, to form teams of Agents. To enhance context length for these teams, I connect MemGPT to both AutoGen and Local LLM or ChatGPT. For image generation, I utilize Automatic1111 (A1111) and ComfyUI user interfaces. A1111 is primarily used for generating images, while I've integrated Stable Diffusion for AI Video Generation and explored other techniques such as 3D modeling and image-to-text conversions. Specifically, I employ ComfyUI for the Stable Diffusion XL Model with Refiner, which I've found to be the most effective local model for image generation, although it cannot be utilized with A1111. For detailed setup instructions regarding this setup, I've documented them in this repository. Furthermore, I employ So-Vits-SVC to manipulate voices using trained models. Additionally, I have developed applications that incorporate OpenAI's API for both text and image generation functionalities, example: [AI Art Generation]([https://www.cre8ai.art/](https://github.com/KC-7/ai-art-site).
+
+## My Current AI / Machine Learning Course Roadmap
+
+| Course | Summary | Contribution to Learning |
+|---|---|---|
+| **Learn PyTorch for Deep Learning** | This course, available through Zero to Mastery, provides a comprehensive introduction to machine learning and deep learning using the PyTorch framework. It starts with PyTorch fundamentals, teaching through a hands-on, code-first approach. The course covers key topics such as PyTorch Workflow, Neural Network Classification, Computer Vision, and more, culminating in three milestone projects centered around a major project called FoodVision. PyTorch 2.0 features are also discussed, ensuring learners are up to date with the latest in the framework's capabilities.【oaicite:3】【oaicite:2】【oaicite:1】. | By focusing heavily on coding and experimentation, this course lays a solid foundation in PyTorch, a leading framework for machine learning research and application in industry. It prepares you for understanding machine learning models' building blocks and how to deploy them, a critical skill for AI developers【oaicite:0】. |
+| **Andrew NG Machine Learning on Coursera** | Taught by Andrew Ng, co-founder of Coursera and a professor at Stanford University, this course is a deep dive into the fundamentals of machine learning. It covers a wide array of topics from linear regression to neural networks, providing a strong mathematical foundation behind the algorithms. The course uses Octave/MATLAB as the programming language for implementing the learned algorithms. | This course is instrumental in understanding the theoretical aspects behind machine learning algorithms. It builds a strong foundation in the principles of machine learning, essential for any AI developer. Knowing how algorithms work under the hood is crucial for effective model building and optimization. |
+| **Andrew NG Deep Learning on Coursera** | This deep learning specialization expands upon the foundations laid in the machine learning course. It consists of five courses that cover deep learning's basics to its application in natural language processing and sequence models. The specialization uses Python and TensorFlow, guiding learners through building, training, and deploying deep learning models. | Completing this specialization equips you with the knowledge to implement and work with neural networks, one of the most powerful tools in AI development. It also covers best practices in structuring your projects and helps you understand the latest developments in deep learning, preparing you for real-world AI challenges. |
+
+[⭐ You can view my PyTorch Course Repo here!](https://github.com/KC-7/learn-pytorch/tree/main)
+
+---
+
 ## Portfolio Projects 🔥💥💢💥🔥
 
 - **5 ⭐ Project**: E-Commerce Website - onlineAI.art
@@ -60,12 +76,6 @@ I'm Kieran, a certified Full Stack Web Developer specialized in creating robust 
 **⚡ Personal Interests** 
 
 I love problem solving, ML & AI, cybersecurity, open source & privacy focused applications and general modifications. I am also passionate about cars, outdoors, travelling, music and animals.
-
-**Machine Learning & Artificial Intelligence:** 
-- I run the following locally on my PC for Text Generation: TextGenUI with custom LLMs from HuggingFace. AutoGen connected to Local LLM or ChatGPT to create teams of Agents. MemGPT connected to AutoGen & Local LLM or ChatGPT to increase context length for the teams of agents.
-- I run the following locally for Image Generation: Automatic1111 (A1111) & ComfyUI user interfaces. I use A1111 for most models to generate images, I have also integrated Stable Diffusion for AI Video Generation, I have also experimented with 3d modelling, image to text etc. I use ComfyUI for Stable Diffusion XL Model with Refiner, this is the best local model I've used for image generation but cant be used with A1111, I have detailed the set up for this in [this repo](https://github.com/KC-7/ecommerce).
-- I use So-Vits-SVC to change voices using trained models.
-- I have also developed applications that incorpate openai's api for text and image generation, example: [AI Art Generation](https://www.cre8ai.art/) & [AI Travel Planner](https://ai-testing.herokuapp.com/).
 
 **CyberSecurity:** 
 - Please see my 4th and 5th portfolio projects to see securily built Django websites.
